@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ktp</string>
+    <string name="provinsi">jawa tengah</string>
+    <string name="kabupaten">tegal\n</string>
+    <string name="nik">12345678\n</string>
+    <string name="nama">wahyu permana\n</string>
+    <string name="ttl">15 januari 2000\n</string>
+    <string name="alamat">jalan rawa rawa no.12 ,rt/rw 06/01</string>
+    <string name="agama">budha\n</string>
+    <string name="kawin">belum kawin\n</string>
+    <string name="pekerjaan">mahasiswa\n</string>
+</resources>
